@@ -146,3 +146,4 @@ E:\Reactivities\API\bin\Debug\net9.0\Domain.dll
 E:\Reactivities\API\bin\Debug\net9.0\Persistence.dll
 E:\Reactivities\API\bin\Debug\net9.0\Persistence.pdb
 E:\Reactivities\API\bin\Debug\net9.0\Domain.pdb
+E:\Reactivities\API\obj\Debug\net9.0\API.sourcelink.json
